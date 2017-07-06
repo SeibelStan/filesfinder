@@ -1,1 +1,3 @@
-filesfinder
+# Filesfinder
+
+Поиск выражения по файлам.
